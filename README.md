@@ -24,6 +24,7 @@
 
 ### **Tools**
  * **microsoft Excel:** Utilized for preliminary data correction,cleaning and initial review of the dataset
+
 * Pivot table
 * Dashboard creation
 ### **Deliverables**
@@ -35,6 +36,7 @@
 ***
 
 
+[EXCEL PROJECT-SALES ANALYSIS DASHBOARD (2).xlsx](https://github.com/user-attachments/files/22189420/EXCEL.PROJECT-SALES.ANALYSIS.DASHBOARD.2.xlsx)
 
 
 
