@@ -17,10 +17,25 @@
 * Give desirable recommendation(s)									
 
 ### **methodology**
-* 
+* Data Collection & Preparation
+* Source data: Gather raw data from Excel, databases
+
+*Clean the data by
+**Removing duplicates.
+**Fix data types (e.g., dates, numbers).
+* Use Excel Tables (Insert > Table) to make data dynamic.
+
+*Create Pivot Charts
+Convert pivot tables to visual charts:
+
+*Insert > Pivot Chart.
+**Choose suitable chart types (e.g., Bar, Line, Pie).
+**Keep visual hierarchy simple and clean.
+
+ *Add Slicers & Timelines for Interactivity
 
 ### **Data Source**
- * Dataset is provided by a training class as an  excel file for a Sales Analysis dashboard, which was downloaded and processed
+ * Dataset is provided as an  excel file for a Sales Analysis dashboard, which was downloaded and processed
 
 ### **Tools**
  * **microsoft Excel:** Utilized for preliminary data correction,cleaning and initial review of the dataset
