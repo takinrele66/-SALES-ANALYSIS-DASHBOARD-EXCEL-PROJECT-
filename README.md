@@ -21,16 +21,16 @@
 * Source data: Gather raw data from Excel, databases
 
 *Clean the data by
-**Removing duplicates.
-**Fix data types (e.g., dates, numbers).
+*Removing duplicates.
+*Fix data types (e.g., dates, numbers).
 * Use Excel Tables (Insert > Table) to make data dynamic.
 
 *Create Pivot Charts
 Convert pivot tables to visual charts:
 
 *Insert > Pivot Chart.
-**Choose suitable chart types (e.g., Bar, Line, Pie).
-**Keep visual hierarchy simple and clean.
+*Choose suitable chart types (e.g., Bar, Line, Pie).
+*Keep visual hierarchy simple and clean.
 
  *Add Slicers & Timelines for Interactivity
 
